@@ -1,0 +1,16 @@
+C:\repos\LINQTUT\LINQTUT\bin\Debug\net5.0\LINQTUT.exe
+C:\repos\LINQTUT\LINQTUT\bin\Debug\net5.0\LINQTUT.deps.json
+C:\repos\LINQTUT\LINQTUT\bin\Debug\net5.0\LINQTUT.runtimeconfig.json
+C:\repos\LINQTUT\LINQTUT\bin\Debug\net5.0\LINQTUT.runtimeconfig.dev.json
+C:\repos\LINQTUT\LINQTUT\bin\Debug\net5.0\LINQTUT.dll
+C:\repos\LINQTUT\LINQTUT\bin\Debug\net5.0\ref\LINQTUT.dll
+C:\repos\LINQTUT\LINQTUT\bin\Debug\net5.0\LINQTUT.pdb
+C:\repos\LINQTUT\LINQTUT\obj\Debug\net5.0\LINQTUT.csproj.AssemblyReference.cache
+C:\repos\LINQTUT\LINQTUT\obj\Debug\net5.0\LINQTUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\LINQTUT\LINQTUT\obj\Debug\net5.0\LINQTUT.AssemblyInfoInputs.cache
+C:\repos\LINQTUT\LINQTUT\obj\Debug\net5.0\LINQTUT.AssemblyInfo.cs
+C:\repos\LINQTUT\LINQTUT\obj\Debug\net5.0\LINQTUT.csproj.CoreCompileInputs.cache
+C:\repos\LINQTUT\LINQTUT\obj\Debug\net5.0\LINQTUT.dll
+C:\repos\LINQTUT\LINQTUT\obj\Debug\net5.0\ref\LINQTUT.dll
+C:\repos\LINQTUT\LINQTUT\obj\Debug\net5.0\LINQTUT.pdb
+C:\repos\LINQTUT\LINQTUT\obj\Debug\net5.0\LINQTUT.genruntimeconfig.cache

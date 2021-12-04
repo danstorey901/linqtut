@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQTUT", "LINQTUT\LINQTUT.csproj", "{8B76EF8F-3D6C-42A2-9AB5-DC43AE105760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B76EF8F-3D6C-42A2-9AB5-DC43AE105760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B76EF8F-3D6C-42A2-9AB5-DC43AE105760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B76EF8F-3D6C-42A2-9AB5-DC43AE105760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B76EF8F-3D6C-42A2-9AB5-DC43AE105760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FDD73DE-1627-4DB9-A711-52372FD2C3E1}
+	EndGlobalSection
+EndGlobal
